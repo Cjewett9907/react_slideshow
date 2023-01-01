@@ -38,7 +38,7 @@
     "react": "^16.8.6",
     "stats-js": "^1.0.0",
     "validator": "^10.10.0",
-    "webpack": "^4.34.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
